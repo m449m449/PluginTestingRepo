@@ -28,10 +28,10 @@
     "RepoUrl": "https://github.com/m449m449/RotationSolverRebornTesting",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.1/latest.zip",
-    "AssemblyVersion": "7.5.1.2",
+    "AssemblyVersion": "1.0.0.1",
     "DownloadLinkUpdate": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.1/latest.zip",
-    "TestingAssemblyVersion": "7.4.1.2",
+    "TestingAssemblyVersion": "1.0.0.1",
     "Changelog": "## What's Changed\r\ntesting",
     "DownloadCount": 0
   }
