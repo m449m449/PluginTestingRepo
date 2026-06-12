@@ -27,11 +27,11 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/m449m449/RotationSolverRebornTesting",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.2/latest.zip",
-    "AssemblyVersion": "1.0.0.2",
-    "DownloadLinkUpdate": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.2/latest.zip",
-    "TestingAssemblyVersion": "1.0.0.2",
+    "DownloadLinkInstall": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.3/latest.zip",
+    "AssemblyVersion": "1.0.0.3",
+    "DownloadLinkUpdate": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/m449m449/RotationSolverRebornTesting/releases/download/1.0.0.3/latest.zip",
+    "TestingAssemblyVersion": "1.0.0.3",
     "Changelog": "## What's Changed\r\ntesting",
     "DownloadCount": 0
   }
